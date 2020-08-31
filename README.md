@@ -1,2 +1,18 @@
-# loterias
-Obter os registros de sorteios realiazados pela Caixa Econômica Federal afim de realizar estudos e análises de dados.
+﻿<pre>
+..####...#####..######..######......######
+.##..##.##...##.##...##...##........##....
+.##.....##...##.##...##...##........##....
+..####..##...##.######....##...####.####..
+.....##.##...##.##.##.....##........##....
+.##..##.##...##.##..##....##........##....
+..####...#####..##...##...##........######
+</pre>
+<pre>
+2019-07-29
+	*** Intuito do sistema:
+	-> Obter os registros de sorteios realiazados pela Caixa Econômica Federal, com fins de estudo e análise de dados.
+
+    	*** Requerimentos:
+		-> MongoDB 1.18.0
+		-> Anaconda 1.9.7
+</pre>
